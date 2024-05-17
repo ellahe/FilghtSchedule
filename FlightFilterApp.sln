@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightFilterApp", "FlightFilterApp.csproj", "{E3E07ACE-C5BE-4E3D-A0E2-647B2CE38C81}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "FlightFilterApp.DataAccess\Database\Database.sqlproj", "{18CD5F5C-686B-47FD-9E7A-B15AD22B2234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E07ACE-C5BE-4E3D-A0E2-647B2CE38C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E07ACE-C5BE-4E3D-A0E2-647B2CE38C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E07ACE-C5BE-4E3D-A0E2-647B2CE38C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E07ACE-C5BE-4E3D-A0E2-647B2CE38C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CD5F5C-686B-47FD-9E7A-B15AD22B2234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CD5F5C-686B-47FD-9E7A-B15AD22B2234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CD5F5C-686B-47FD-9E7A-B15AD22B2234}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{18CD5F5C-686B-47FD-9E7A-B15AD22B2234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CD5F5C-686B-47FD-9E7A-B15AD22B2234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CD5F5C-686B-47FD-9E7A-B15AD22B2234}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CEFDAF4-9DC3-4F82-806B-BC417C00E35A}
+	EndGlobalSection
+EndGlobal

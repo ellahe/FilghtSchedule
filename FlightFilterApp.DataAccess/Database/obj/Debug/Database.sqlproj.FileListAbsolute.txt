@@ -1,0 +1,10 @@
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\bin\Debug\Database.dacpac
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\bin\Debug\Database.dll
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\bin\Debug\Database.pdb
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\obj\Debug\Model.xml
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\obj\Debug\refactor.xml
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\obj\Debug\postdeploy.sql
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\obj\Debug\predeploy.sql
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\obj\Debug\Database.dll
+C:\Users\ella\source\repos\FlightFilterApp\FlightFilterApp.DataAccess\Database\obj\Debug\Database.pdb
